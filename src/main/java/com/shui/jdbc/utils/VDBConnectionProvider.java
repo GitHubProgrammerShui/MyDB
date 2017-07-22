@@ -1,4 +1,4 @@
-package com.softeem.jdbc.utils;
+package com.shui.jdbc.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.util.Iterator;
 import java.util.Properties;
 import java.util.Set;
 
-import com.softeem.jdbc.dbprovider.exceptions.IllegalParameterException;
+import com.shui.jdbc.dbprovider.exceptions.IllegalParameterException;
 
 class VDBConnectionProvider extends ConnectionProvider {
 

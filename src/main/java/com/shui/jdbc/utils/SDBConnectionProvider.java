@@ -1,4 +1,4 @@
-package com.softeem.jdbc.utils;
+package com.shui.jdbc.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

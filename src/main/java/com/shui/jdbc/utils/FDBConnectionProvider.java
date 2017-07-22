@@ -1,11 +1,11 @@
-﻿package com.softeem.jdbc.utils;
+﻿package com.shui.jdbc.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
-import com.softeem.jdbc.dbprovider.exceptions.IllegalParameterException;
+import com.shui.jdbc.dbprovider.exceptions.IllegalParameterException;
 
 /**
  * 数据库连接提供者，专门用于提供数据库连接
